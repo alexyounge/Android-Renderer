@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.1\1261dfca5bae89a866a2855552da26feab7f8fad\dagger-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\dagger-2.0.1-59462f69da1a9182fb529b730ceec7725a835125.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\gson-2.3.1-666f1e8d849441dcd8cb8cb04ea6aba2e70fd68b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-23938228a47f3099d1180259d03588502bd65556.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-eefe330f93ec69a454d6a0fb16df62a49f607602.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\release\classes-2568ed3271d4dc9e9009d34ab9e43faedf240582.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\release\classes-f73cdcc132b4e3e74d5b05a4845fe8464cf45158.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\com.netflix.rxjava\rxjava-core\0.20.7\79abf98a7acac3ffb7fec527847accf23de02bdd\rxjava-core-0.20.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79abf98a7acac3ffb7fec527847accf23de02bdd">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\rxjava-core-0.20.7-0c09ec0f87affda3a54b69ef10a23d92974b5641.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-9ec3076d1fac1bbbeb6a630f2793db75aa6cf719.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\jacocoagent-55f08e4384cc29d0d10d8a11bccdd9d93b5cf4a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-97c1eea51c9aa0edcc27a056e4da9ff0272ea198.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\javax.inject-1-902ae4f7f036b2d15484f0ab15fafb100fb25408.jar" />
+    </item>
+    <item
+        jar="C:\Users\sande\.gradle\caches\modules-2\files-2.1\com.netflix.rxjava\rxjava-android\0.20.7\e12fcefbbefd5a9c50585e839449117209128ddf\rxjava-android-0.20.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e12fcefbbefd5a9c50585e839449117209128ddf">
+        <dex dex="C:\Users\sande\AndroidStudioProjects\GD2Renderer\app\build\intermediates\pre-dexed\debug\rxjava-android-0.20.7-4b4c48a7c30e550106ef6bac85d4b5f6b82e9dd9.jar" />
+    </item>
+
+</items>
